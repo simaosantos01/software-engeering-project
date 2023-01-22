@@ -1,32 +1,31 @@
 # LEI_ESII2021_TP2_GRUPO5
 
-Projeto realizado no âmbito da U.C. de Engenharia de Software II.
-**link para o repositório gitLab** http://gitlab.estg.ipp.pt/grupo5/lei_esii2021_tp2_grupo5.git
+Project carried out as part of the Software Engineering II course.
+**link to the gitLab repository** http://gitlab.estg.ipp.pt/grupo5/lei_esii2021_tp2_grupo5.git
 
-# Contribuidores
+# Contributors
 
 - Simão Santos 8200322@estg.ipp.pt
 - Rui Neto 8200321@estg.ipp.pt  
 
-# Descrição do Projeto
+# Project Description
 
-Este projeto consiste na criação de um sofware para uma empresa que tem como objetivo a transação de produtos entre outras empresas a nível nacional. O Software para além de dever permitir efetuar as transações, deve permitir fazer a recolha e entrega das encomendas. A empresa deverá ter um armazém em cada distrito e uma frota de veículos para recolha e entrega de encomendas.
-Neste sentido, o Software deverá permitir armazenar toda a informação sobre as empresas, produtos, compras e envios dos produtos.
+This project consists of creating a software for a company that aims to facilitate product transactions between other companies on a national level. The software should not only enable transactions, but also allow for the collection and delivery of orders. The company will have a warehouse in each district and a fleet of vehicles for collecting and delivering orders. In this sense, the software should store all information about companies, products, purchases and product shipments.
 
-# Objetivos
+# Goals
 
-Desenvolver as nossas competências relativamente ao desenvolvimento ágil de software, com foco em práticas que assegurem a garantia de qualidade de software, nomeadamente: 
+Develop our skills related to agile software development, focusing on practices that ensure software quality, including: 
 
-- Testes de software; 
-- Implementação de práticas de Software Configuration Management;
-- Realizar, periodicamente, inspeção de código;
-- Seguir uma abordagem baseada em Continuous Integration, procurando suportar e automatizar o mais possível o processo de construção de software;
+- Software testing; 
+- Implementation of Software Configuration Management practices;
+- Regularly conducting code inspections;
+- Following a Continuous Integration approach to support and automate the software building process as much as possible;
 
-**Aumentar as capacidades para:**
+**Increasing our abilities to:**
 
-- Analisar um problema e identificar os requisitos, regras de negócio e cada use case;
-- Especificar e executar um conjunto de casos de testes legível;
-- Distinguir testes de caixa preta e testes de caixa branca (com a identificação da cobertura) e escolher adequadamente quais os testes que melhor se aplicam a cada use case;
-- Usar metodologias de desenvolvimento ágil no desenvolvimento de software e o uso de ferramentas de suporte;
-- Estabelecer um plano de desenvolvimento maduro envolvendo uma equipa de trabalho;
-- Inspecionar o código, regularmente, através da identificação, recolher e análise de um conjunto específico de métricas relacionadas com a qualidade do produto de software, relacionados com outros fatores de qualidade que não o comportamento do sistema.
+- Analyze a problem and identify requirements, business rules, and use cases;
+- Specify and execute a set of readable test cases;
+- Distinguish between black box and white box testing (with identification of coverage) and choose the appropriate tests for each use case;
+- Use agile development methodologies and support tools;
+- Establish a mature development plan involving a work team;
+- Regularly inspect the code through the identification, collection, and analysis of a specific set of metrics related to software product quality, and related to other quality factors besides system behavior.
