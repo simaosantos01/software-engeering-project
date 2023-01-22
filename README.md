@@ -1,7 +1,7 @@
 # LEI_ESII2021_TP2_GRUPO5
 
-Project carried out as part of the Software Engineering II course.
-**link to the gitLab repository** http://gitlab.estg.ipp.pt/grupo5/lei_esii2021_tp2_grupo5.git
+Project carried out as part of the Software Engineering II course.<br/>
+**link to the gitLab repository:** http://gitlab.estg.ipp.pt/grupo5/lei_esii2021_tp2_grupo5.git
 
 # Contributors
 
